@@ -1,0 +1,17 @@
+<Project>
+  <PropertyGroup>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Xenko.$(AssemblyName)</PackageId>
+    <PackageVersion>3.7</PackageVersion>
+    <Authors>Jonathan Peli de Halleux</Authors>
+    <Title>Generic graph data structures and algorithms for .NET</Title>
+    <Copyright>Copyright http://quickgraph.codeplex.com/</Copyright>
+    <Description>QuickGraph provides generic directed/undirected graph datastructures and algorithms for .NET Standard 2.0
+QuickGraph comes with algorithms such as depth first seach, breath first search, A* search, shortest path, 
+k-shortest path, maximum flow, minimum spanning tree, least common ancestors, etc...</Description>
+    <RepositoryUrl>https://github.com/xenko3d/QuickGraph.git</RepositoryUrl>
+    <PackageProjectUrl>http://quickgraph.codeplex.com/</PackageProjectUrl>
+    <PackageTags>algorithms;graph;directed;undirected;dfs;bfs;graphviz;graphml;data;structure</PackageTags>
+    <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
+  </PropertyGroup>
+</Project>
